@@ -92,7 +92,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item> */}
             {/* TODO blog*/}
-            {/* <Nav.Item>
+            <Nav.Item>
               <Nav.Link
                 href="https://qiita.com/chenzhi1011"
                 target="_blank"
@@ -100,7 +100,7 @@ function NavBar() {
               >
                 <ImBlog style={{ marginBottom: "2px" }} /> Blogs
               </Nav.Link>
-            </Nav.Item> */}
+            </Nav.Item>
 
             <Nav.Item className="fork-btn">
               <Button
